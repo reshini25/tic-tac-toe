@@ -17,5 +17,11 @@ A simple and fun web-based Tic Tac Toe game built with **HTML**, **CSS**, and **
 ## Live Demo
 https://reshini25.github.io/tic-tac-toe/
 
+## Screenshot
+https://github.com/reshini25/tic-tac-toe/blob/main/screenshot1.png?raw=true
+https://github.com/reshini25/tic-tac-toe/blob/main/screenshot2.png?raw=true
 
+## 📄 License
+This project is licensed under the [CC BY-ND 4.0 License](https://creativecommons.org/licenses/by-nd/4.0/).  
+You may use and share the code with credit, but **modifications are not allowed**.
 
