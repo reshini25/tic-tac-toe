@@ -14,3 +14,8 @@ A simple and fun web-based Tic Tac Toe game built with **HTML**, **CSS**, and **
 - Game announces the winner or draw
 - Use the buttons to start a new game
 
+## Live Demo
+https://reshini25.github.io/tic-tac-toe/
+
+
+
