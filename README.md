@@ -10,7 +10,7 @@ A simple and fun web-based Tic Tac Toe game built with **HTML**, **CSS**, and **
 
 ## How to Play
 - Click on any box to make a move
-- First player is "O", second is "X"
+- First player is "O",second is "X"
 - Game announces the winner or draw
 - Use the buttons to start a new game
 
